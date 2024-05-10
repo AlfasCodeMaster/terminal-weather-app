@@ -1,0 +1,187 @@
+{
+  "location": {
+    "name": "Pendik",
+    "region": "Istanbul",
+    "country": "Turkey"
+  },
+  "summary": {
+    "maxtemp": 20,
+    "mintemp": 11.8,
+    "avgtemp": 16.2,
+    "avghumidity": 53,
+    "rain_chance": 0,
+    "snow_chance": 0,
+    "text": "Güneşli",
+    "icon": "cdn.weatherapi.com/weather/64x64/day/113.png"
+  },
+  "forecast": [
+    {
+      "time": "2024-05-07 00:00",
+      "temp": 12.5,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 60
+    },
+    {
+      "time": "2024-05-07 01:00",
+      "temp": 12.3,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 60
+    },
+    {
+      "time": "2024-05-07 02:00",
+      "temp": 12.2,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 60
+    },
+    {
+      "time": "2024-05-07 03:00",
+      "temp": 12,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 61
+    },
+    {
+      "time": "2024-05-07 04:00",
+      "temp": 11.8,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 61
+    },
+    {
+      "time": "2024-05-07 05:00",
+      "temp": 11.7,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 60
+    },
+    {
+      "time": "2024-05-07 06:00",
+      "temp": 12.4,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 58
+    },
+    {
+      "time": "2024-05-07 07:00",
+      "temp": 13.8,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 53
+    },
+    {
+      "time": "2024-05-07 08:00",
+      "temp": 15.1,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 49
+    },
+    {
+      "time": "2024-05-07 09:00",
+      "temp": 16.3,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 46
+    },
+    {
+      "time": "2024-05-07 10:00",
+      "temp": 17.2,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 44
+    },
+    {
+      "time": "2024-05-07 11:00",
+      "temp": 17.9,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 44
+    },
+    {
+      "time": "2024-05-07 12:00",
+      "temp": 18.7,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 43
+    },
+    {
+      "time": "2024-05-07 13:00",
+      "temp": 19.4,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 43
+    },
+    {
+      "time": "2024-05-07 14:00",
+      "temp": 19.8,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 42
+    },
+    {
+      "time": "2024-05-07 15:00",
+      "temp": 21,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 40
+    },
+    {
+      "time": "2024-05-07 16:00",
+      "temp": 19.9,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 43
+    },
+    {
+      "time": "2024-05-07 17:00",
+      "temp": 19.7,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 43
+    },
+    {
+      "time": "2024-05-07 18:00",
+      "temp": 18.8,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 49
+    },
+    {
+      "time": "2024-05-07 19:00",
+      "temp": 17.4,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 52
+    },
+    {
+      "time": "2024-05-07 20:00",
+      "temp": 17,
+      "condition": "Güneşli",
+      "icon": "cdn.weatherapi.com/weather/64x64/day/113.png",
+      "humidity": 51
+    },
+    {
+      "time": "2024-05-07 21:00",
+      "temp": 16.7,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 50
+    },
+    {
+      "time": "2024-05-07 22:00",
+      "temp": 16.3,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 51
+    },
+    {
+      "time": "2024-05-07 23:00",
+      "temp": 15.9,
+      "condition": "Açık",
+      "icon": "cdn.weatherapi.com/weather/64x64/night/113.png",
+      "humidity": 52
+    }
+  ]
+}
